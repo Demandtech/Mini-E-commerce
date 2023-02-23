@@ -1,0 +1,26 @@
+[
+ {
+   "id": 1,
+   "name": "iphone 7",
+   "price": 999.9,
+   "imgUrl": "/images/iphone-1.jpg"
+ },
+ {
+   "id": 2,
+   "name": "iphone 10",
+   "price": 888.9,
+   "imgUrl": "/images/iphone-2.jpg"
+ },
+ {
+   "id": 3,
+   "name": "iphone 11",
+   "price": 750.9,
+   "imgUrl": "/images/iphone-3.jpg"
+ },
+ {
+   "id": 4,
+   "name": "iphone 8",
+   "price": 600.90,
+   "imgUrl": "/images/iphone-4.jpg"
+ }
+]
